@@ -8,8 +8,23 @@ In an ongoing effort, we are attempting to document common, new, or interesting 
 in Kali Linux as best as we can. This has prompted the setup of our Official Kali Linux Documentation website. 
 We believe the fastest way to get to know Kali Linux is to follow the documentation site and explore the new 
 features available.
+a
+b
+c
+d
+e
+f
+g
+h
 Kali Linux is constantly evolving with new features being added to the distribution all the time. 
 In an ongoing effort, we are attempting to document common, new, or interesting features available 
 in Kali Linux as best as we can. This has prompted the setup of our Official Kali Linux Documentation website. 
 We believe the fastest way to get to know Kali Linux is to follow the documentation site and explore the new 
 features available.
+1
+2
+3
+4
+5
+6
+7
